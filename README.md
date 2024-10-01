@@ -10,6 +10,7 @@ MicroGrad is a lightweight autograd engine that implements backpropagation for a
 
 1. Clone this repository
 2. Install the required packages:
+
    ```
    pip install micrograd
    ```
