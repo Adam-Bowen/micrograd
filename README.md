@@ -24,6 +24,8 @@ from micrograd import nn
  y = n(x)
  dot = draw_dot(y)
 ```
+![CleanShot 2024-10-01 at 13 47 39@2x](https://github.com/user-attachments/assets/ff3bbba3-a64f-4bec-8dbf-4d9ecdabab79)
+
 
 ## Files
 
