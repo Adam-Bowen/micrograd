@@ -12,7 +12,6 @@ MicroGrad is a lightweight autograd engine that implements backpropagation for a
 2. Install the required packages:
    ```
    pip install micrograd
-   ``
    ```
 
 ## Tracing/Visualisation
@@ -23,7 +22,6 @@ from micrograd import nn
  x = [Value(1.0), Value(-2.0)]
  y = n(x)
  dot = draw_dot(y)
-``
 ```
 
 ## Files
